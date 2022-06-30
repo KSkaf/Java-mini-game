@@ -1,2 +1,2 @@
 # Java-mini-game
-puzzle and riddles
+5 rooms with puzzles and riddles
